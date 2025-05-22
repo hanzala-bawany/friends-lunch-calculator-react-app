@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { FriendList } from './components/friendList'
+import { FriendList } from './components/FriendList'
 import { AddFriend } from './components/AddFriend'
 import { SplitBillForm } from './components/SplitBillForm'
 import './App.css'
